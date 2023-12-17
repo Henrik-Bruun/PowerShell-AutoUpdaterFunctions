@@ -1,2 +1,2 @@
-﻿https://github.com/Henrik-Bruun/PowerShell-Convert-MAC/raw/main/Convert-MAC.psm1
-https://github.com/Henrik-Bruun/PowerShell-Get-MACvendor/raw/Get-MACvendor.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-MACvendor/main/Convert-MAC.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-MACvendor/main/Get-MACvendor.psm1
