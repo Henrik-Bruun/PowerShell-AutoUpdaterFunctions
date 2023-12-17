@@ -1,2 +1,4 @@
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Convert-MAC/main/Convert-MAC.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-MACvendor/main/Get-MACvendor.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-IncreaseIPv4Address/main/Update-IncreaseIPv4Address.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-DecreaseIPv4Address/main/Update-DecreaseIPv4Address.psm1
