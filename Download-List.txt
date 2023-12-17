@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-MACvendor/main/Get
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-IncreaseIPv4Address/main/Update-IncreaseIPv4Address.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-DecreaseIPv4Address/main/Update-DecreaseIPv4Address.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-IPAddress/main/Get-IPAddress.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-EmailAddress/main/Get-EmailAddress.psm1
