@@ -4,3 +4,6 @@ https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-IncreaseIPv4Add
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-DecreaseIPv4Address/main/Update-DecreaseIPv4Address.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-IPAddress/main/Get-IPAddress.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-EmailAddress/main/Get-EmailAddress.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-BGPasOrigin/main/Get-BGPasOrigin.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-BGPasPeer/main/Get-BGPasPeer.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-BGPasDescription/main/Get-BGPasDescription.psm1
