@@ -1,9 +1,9 @@
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Convert-MAC/main/Convert-MAC.psm1
-https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-MACvendor/main/Get-MACvendor.psm1
-https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-IncreaseIPv4Address/main/Update-IncreaseIPv4Address.psm1
-https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-DecreaseIPv4Address/main/Update-DecreaseIPv4Address.psm1
-https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-IPAddress/main/Get-IPAddress.psm1
-https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-EmailAddress/main/Get-EmailAddress.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-BGPasOrigin/main/Get-BGPasOrigin.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-BGPasPeer/main/Get-BGPasPeer.psm1
 https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-BGPasDescription/main/Get-BGPasDescription.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-EmailAddress/main/Get-EmailAddress.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-IPAddress/main/Get-IPAddress.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Get-MACvendor/main/Get-MACvendor.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-IncreaseIPv4Address/main/Update-IncreaseIPv4Address.psm1
+https://raw.githubusercontent.com/Henrik-Bruun/PowerShell-Update-DecreaseIPv4Address/main/Update-DecreaseIPv4Address.psm1
